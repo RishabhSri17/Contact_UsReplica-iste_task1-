@@ -54,7 +54,7 @@ $conn->close();
         <h1>Get In Touch</h1>
         <p></p>
             
-        <form action="send.php" method="post">
+        <form action="#" method="post">
             <div class="row">
                 <div class="column1">
                     <label for="firstname"></label>
